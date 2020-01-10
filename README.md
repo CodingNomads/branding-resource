@@ -53,6 +53,13 @@ The general theme settings for our brand communication could reflect these two c
 
 ## Fonts
 
-What is the font that is currently used in the CodingNomads logo?
+### Logo fonts
 
-What is the font used in the beginning of video recordings? (I'd like to suggest course creators to use that same font if they make slides)
+* Barlow condensed (CodingNomads)
+* Source Sans Pro (Tagline: Learn to code travel the world)
+* Closest Google Apps font: Oswald
+
+### Website fonts
+
+* Roboto headers
+* Roboto body
