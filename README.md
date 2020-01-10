@@ -13,13 +13,13 @@ To keep our message clear and easy to communicate, we want:
 <div style="display: flex; justify-content: space-between;">
 
 <div>
-    <p>My aim was to use the colors from our logo:</p>
+    <p>We aim to use the brand colors from our logo:</p>
     <img src="https://pbs.twimg.com/profile_images/960981641689677824/ddu4i3as_400x400.jpg" width="250">
 </div>
 
 <div>
 
-Specifically, I would suggest the two outer colors for primary branding:
+Specifically, the two outer colors can be used for primary branding:
 
 <h4>sunset yellow (outermost)</h4>
 <div style="display: flex">
@@ -49,7 +49,7 @@ Specifically, I would suggest the two outer colors for primary branding:
 
 </div>
 
-The general theme settings for our brand communication could reflect these two colors as **primary** (sea-blue) and **secondary** (sunset-yellow) brand colors.
+The general theme settings for our brand communication should reflect these two colors as **primary** (sea-blue) and **secondary** (sunset-yellow) brand colors.
 
 ## Fonts
 
@@ -63,3 +63,8 @@ The general theme settings for our brand communication could reflect these two c
 
 * Roboto headers
 * Roboto body
+
+### Slide fonts
+* Barlow condensed (titles)
+* Source Sans Pro (text)
+* Roboto Mono (code)
